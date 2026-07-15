@@ -217,8 +217,8 @@ PET-fMRI-Metabolic-Connectivity-Analysis/
 │   ├── timePET.mat                                                  # vector of PET frame durations [s]
 │   └── weight_conversion.m                                          # Converts and normalizes connectivity matrix weights
 │
-├── NIFTI_toolbox/                                                   # NIfTI utilities
-├── BrainConnectivityToolbox/                                        # Graph analysis functions
+├── NIFTI_toolbox/                                                   # NIfTI utilities (to be downloaded)
+├── BrainConnectivityToolbox/                                        # Graph analysis functions (to be downloaded)
 │
 └── figures/                                                         # Optional output figures
 ```
